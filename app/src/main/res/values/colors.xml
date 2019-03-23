@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f44336</color>
+    <color name="colorPrimaryDark">#f5f5f1</color>
+    <color name="colorPrimaryDark2">#d0221f1f</color>
+    <color name="colorPopUp">#f5f5f1</color>
+    <color name="colorAccent">#e50914</color>
+    <color name="colorAccent2">#b3e50914</color>
+    <color name="colorAnalog1">#f4a236</color>
+    <color name="colorAnalog2">#f43688</color>
+    <color name="colorTriadic1">#e7f436</color>
+    <color name="colorTriadic2">#36f443</color>
+    <color name="white">#221f1f</color>
+    <color name="bluedark">#2f333f</color>
+    <color name="bluelight">#49acd5</color>
+    <color name="green">#45bc62</color>
+    <color name="orange">#eaad43</color>
+</resources>
